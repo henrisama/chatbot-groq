@@ -8,7 +8,7 @@ load_dotenv()
 
 class Chatbot:
     def __init__(self):
-        self.history = [SystemMessage(content="")]
+        self.history = [SystemMessage(content="You are a helpful assistant.")]
 
         self.llm = ChatGroq(
             temperature=0,
