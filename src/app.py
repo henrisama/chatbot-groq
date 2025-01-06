@@ -1,6 +1,8 @@
 import streamlit as st
 from chatbot import Chatbot
 
+st.title("💬 Chatbot")
+
 if "chatbot" not in st.session_state:
     st.session_state.chatbot = Chatbot()
 
