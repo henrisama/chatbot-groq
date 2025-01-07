@@ -64,7 +64,7 @@ cd chatbot-app
     Certifique-se de que o Docker está rodando na sua máquina. Em seguida, execute o seguinte comando para construir e iniciar a aplicação:
 
     ```bash
-    docker-compose up
+    docker compose up
     ```
 
 2.  **Aguarde a Inicialização da Aplicação**
