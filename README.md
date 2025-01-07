@@ -36,7 +36,7 @@ Antes de começar, certifique-se de que você atendeu aos seguintes requisitos:
 1.  **Clone o Repositório**
 
 ```bash
-git clone https://github.com/seuusuario/chatbot-app.git
+git clone https://github.com/henrisama/chatbot-groq.git
 ```
 
 2.  **Navegue até o Diretório do Projeto**
